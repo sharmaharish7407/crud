@@ -1,0 +1,57 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "empolyees": [
+    {
+      "firstName": "kamal",
+      "lastName": "rawat",
+      "email": "krawat663295@mail.co.in",
+      "dob": "2023-04-12T04:00:00.000Z",
+      "gender": "Male",
+      "education": "Intermediate",
+      "company": "abcfdgs",
+      "experince": 2,
+      "package": 12,
+      "id": 2
+    },
+    {
+      "firstName": "kamal",
+      "lastName": "rawat",
+      "email": "krawat663295@mail.co.in",
+      "dob": "2023-04-12T04:00:00.000Z",
+      "gender": "Male",
+      "education": "Graduation",
+      "company": "abc",
+      "experince": 2,
+      "package": 12,
+      "id": 2
+    },
+    {
+      "firstName": "rohit",
+      "lastName": "sharma",
+      "email": "Kamal@123",
+      "dob": "2023-04-11T04:00:00.000Z",
+      "gender": "Male",
+      "education": "Graduation",
+      "company": "abc",
+      "experince": 3,
+      "package": 1,
+      "id": 3
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+.row{
+    display: flex;
+    gap:10px;
+}
+.content{
+    padding-top: 10px;
+}
+.action{
+    padding: 0px 25px 20px;
+}
+.action button{
+    flex:1;
+}
